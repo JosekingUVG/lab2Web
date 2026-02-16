@@ -1,11 +1,11 @@
 # 🏝 Lab 2 – Web Styling & Story Experience
 
 ## 🎨 Part 1 – Ricing a Website
-Website chosen: (Write the website here, e.g., Reddit.com or X.com)
+Website chosen: text.npr.org
 
 🎭 Theme Chosen
 
-(Describe your theme: retro, e-ink, dark mode, tropical, anime, 2000s internet, etc.)
+Electro-retro videogame
 
 ✨ Changes Made
 
@@ -28,3 +28,9 @@ After
 <img width="1365" height="767" alt="Captura de pantalla 2026-02-14 224208" src="https://github.com/user-attachments/assets/a9d148ce-6848-47f5-af76-b07ee195f271" />
 
 ## 📖 Part 2 – Styling My Story
+
+This section improves the interactive story created in Lab 1 by applying consistent visual design principles.
+
+🎮 Design Concept: Video
+
+(https://www.youtube.com/watch?v=TtamrmER2u8)
